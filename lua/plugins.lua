@@ -36,5 +36,7 @@ return require('packer').startup(function(use)
   -- leaderF 
   use {'Yggdroot/LeaderF', run = 'LeaderfInstallCExtension'}
 
+  use {'Yggdroot/indentLine' }
+
 end)
 
