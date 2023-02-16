@@ -1,0 +1,12 @@
+{
+"java.configuration.runtimes": [
+  {
+    "name": "JavaSE-11",
+    "path": "/Users/tao.ling/src/jdk/Contents/Home"
+  }
+  ],
+
+ "clangd.compilationDatabasePath": "./build",
+ "clangd.compilationDatabaseCandidates": ["${workspaceFolder}/build"]
+
+}
