@@ -94,6 +94,11 @@ _G.packer_plugins = {
     path = "/Users/tao.ling/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
     url = "https://github.com/ellisonleao/gruvbox.nvim"
   },
+  indentLine = {
+    loaded = true,
+    path = "/Users/tao.ling/.local/share/nvim/site/pack/packer/start/indentLine",
+    url = "https://github.com/Yggdroot/indentLine"
+  },
   ["lush.nvim"] = {
     loaded = true,
     path = "/Users/tao.ling/.local/share/nvim/site/pack/packer/start/lush.nvim",
